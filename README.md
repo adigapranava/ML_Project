@@ -2,6 +2,14 @@
 
 A NEWS Categorization Model that categorize the news into SPORTS, EDUCATION, TECH, BUSINESS, ENTERTAINMENT and Our model has 94% Accuracy
 
+The Main Features of Our Project are:
+- Dataset Creation
+- Exploring Dataset
+- Cleaning Dataset
+- Trainig Different Models
+- Predicting
+
+The accuracy of different models That we have trained: 
 <table style="font-size:20px">
   <tr>
     <th>Model</th>
